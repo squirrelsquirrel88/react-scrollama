@@ -92,7 +92,7 @@
     "vitest": "^3.0.7"
   },
   "dependencies": {
-    "react-intersection-observer": "^9.15.1"
+    "react-intersection-observer": "^9.16.0"
   },
   "simple-git-hooks": {
     "pre-commit": "npx lint-staged"
