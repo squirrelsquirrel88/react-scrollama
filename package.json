@@ -2,9 +2,9 @@
   "name": "react-scrollama",
   "version": "2.4.0",
   "description": "A lightweight scrollytelling interface for React using the IntersectionObserver.",
-  "author": "Jason Kao <jason.kao@columbia.edu> (https://jasonkao.me)",
+  "author": "",
   "license": "MIT",
-  "homepage": "https://jsonkao.github.io/react-scrollama/",
+  "homepage": "",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "workspaces": [
@@ -23,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jsonkao/react-scrollama"
+    "url": "https://github.com/squirrelsquirrel88/react-scrollama"
   },
   "engines": {
     "node": ">=8",
