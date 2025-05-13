@@ -39,14 +39,6 @@ A few examples of ambitious interactive stories that were built with React Scrol
     <a href="https://www.politico.com/interactives/2019/election-security-americas-voting-machines"><img src="https://user-images.githubusercontent.com/15334952/111391036-2dfb8800-868a-11eb-9c64-3f322ef1e588.png" width="450"/></a>
   </td>
 </tr>
-<tr>
-  <td>
-    <a href="http://graphicsdesk.github.io/"><img src="https://s3.amazonaws.com/spec-imagehosting/spectator-logo.png" width="180"/></a><br/> <a href="https://www.columbiaspectator.com/eye-lead/graduate-sex-diversity"><i>Sex Diversity Among Grad <br/> Students is Stagnating</i></a> <br/> by Jason Kao
-  </td>
-  <td>
-    <a href="https://www.columbiaspectator.com/eye-lead/graduate-sex-diversity"><img src="https://user-images.githubusercontent.com/15334952/111391310-b843ec00-868a-11eb-9744-72ee913cdbe1.png" width="450"/></a>
-  </td>
-</tr>
 </tbody>
 </table>
 
