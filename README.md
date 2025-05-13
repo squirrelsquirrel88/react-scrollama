@@ -180,7 +180,6 @@ You will also probably want to set a `key` prop on each `Step` if you're transfo
 
 ## Thank you to everyone who made this possible!
 
-- [jsonkao](https://github.com/jsonkao)
 - [maerzhase](https://github.com/maerzhase)
 - [NicholasLYang](https://github.com/NicholasLYang)
 - [jonesbp](https://github.com/jonesbp)
