@@ -155,10 +155,10 @@ class Demo extends PureComponent {
     return (
       <div>
         <div className={classes.navbar}>
-          <a href="https://github.com/jsonkao/react-scrollama">GitHub</a>
+          <a href="https://github.com/squirrelsquirrel78/react-scrollama">GitHub</a>
         </div>
         <p className={classes.pageTitle}>
-          <a href="https://github.com/jsonkao/react-scrollama">
+          <a href="https://github.com/squirrelsquirrel78/react-scrollama">
             React Scrollama
           </a>{' '}
           Demo
@@ -173,7 +173,7 @@ class Demo extends PureComponent {
 
         <a
           className={classes.button}
-          href="https://github.com/jsonkao/react-scrollama"
+          href="https://github.com/squirrelsquirrel78/react-scrollama"
         >
           Learn and get started
         </a>
@@ -274,24 +274,6 @@ class Demo extends PureComponent {
             </a>
           </div>
           <div>
-            <a href="http://graphicsdesk.github.io/" rel="nofollow">
-              <img
-                src="https://camo.githubusercontent.com/9c8c61dc63925ee922545f0d0468d5d0d25623459d7b46de3dce4cc85a57c98a/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f737065632d696d616765686f7374696e672f737065637461746f722d6c6f676f2e706e67"
-                width="180"
-                data-canonical-src="https://s3.amazonaws.com/spec-imagehosting/spectator-logo.png"
-                style={{ maxWidth: '100%' }}
-              />
-            </a>
-            <br />{' '}
-            <a
-              href="https://www.columbiaspectator.com/eye-lead/graduate-sex-diversity"
-              rel="nofollow"
-            >
-              <i>Sex Diversity Among Grad Students is Stagnating</i>
-            </a>{' '}
-            by Jason Kao
-          </div>
-          <div>
             <a
               href="https://www.columbiaspectator.com/eye-lead/graduate-sex-diversity"
               rel="nofollow"
@@ -302,7 +284,7 @@ class Demo extends PureComponent {
         </div>
         <a
           className={classes.button}
-          href="https://github.com/jsonkao/react-scrollama"
+          href="https://github.com/squirrelsquirrel78/react-scrollama"
         >
           Learn and get started
         </a>

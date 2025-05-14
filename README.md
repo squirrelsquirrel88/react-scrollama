@@ -44,7 +44,7 @@ A few examples of ambitious interactive stories that were built with React Scrol
 
 ## Demo
 
-A live demo [lives here](https://jsonkao.github.io/react-scrollama). It was debu'd at the [August 2018 ReactNYC meetup](https://www.youtube.com/watch?v=zR_LDPLMUvE).
+A live demo [lives here](https://squirrelsquirrel78.github.io/react-scrollama). It was debu'd at the [August 2018 ReactNYC meetup](https://www.youtube.com/watch?v=zR_LDPLMUvE).
 
 <table>
   <tr>
@@ -67,7 +67,7 @@ $ npm install react-scrollama
 
 ## Usage
 
-A `Scrollama` component wraps a set of steps. Each `Step` component [must](https://github.com/jsonkao/react-scrollama/issues/19#issuecomment-624861326) wrap a DOM element (i.e. not just text).
+A `Scrollama` component wraps a set of steps. Each `Step` component [must](https://github.com/squirrelsquirrel78/react-scrollama/issues/19#issuecomment-624861326) wrap a DOM element (i.e. not just text).
 
 ```jsx
 <Scrollama onStepEnter={callback} offset={0.5}>
@@ -168,7 +168,7 @@ To create a fixed graphic with text scrolling beside/over it, use `position: sti
 
 ### `Step`
 
-A `Step` element can contain one child, which must be a DOM element. To use a React component as the child node, it [must be wrapped with a DOM element](https://github.com/jsonkao/react-scrollama/issues/19#issuecomment-624861326) like `<div>`.
+A `Step` element can contain one child, which must be a DOM element. To use a React component as the child node, it [must be wrapped with a DOM element](https://github.com/squirrelsquirrel78/react-scrollama/issues/19#issuecomment-624861326) like `<div>`.
 
 These are the props you can set on the `Step` component:
 
@@ -201,7 +201,7 @@ You will also probably want to set a `key` prop on each `Step` if you're transfo
 
 ## Features roadmap
 
-- Currently, there is no way to throttle/customize React Scrollama's [resize listener](https://github.com/jsonkao/react-scrollama/blob/master/src/Scrollama.js#L104) 😢. We're working on this in [#44](https://github.com/jsonkao/react-scrollama/issues/44).
+- Currently, there is no way to throttle/customize React Scrollama's [resize listener](https://github.com/squirrelsquirrel78/react-scrollama/blob/master/src/Scrollama.js#L104) 😢. We're working on this in [#44](https://github.com/squirrelsquirrel78/react-scrollama/issues/44).
 - Fire previous step triggers if they were jumped
 
 Lmk if you need these features ASAP.
