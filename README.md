@@ -1,4 +1,4 @@
-# React Scrollama 🦙🦙
+# React Scrollama 🦙
 
 <p align="left">
   <a href="https://www.npmjs.com/package/react-scrollama">
