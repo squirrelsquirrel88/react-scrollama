@@ -44,7 +44,7 @@ A few examples of ambitious interactive stories that were built with React Scrol
 
 ## Demo
 
-A live demo [lives here](https://squirrelsquirrel78.github.io/react-scrollama). It was debu'd at the [August 2018 ReactNYC meetup](https://www.youtube.com/watch?v=zR_LDPLMUvE).
+A live demo [lives here](https://squirrelsquirrel78.github.io/react-scrollama).
 
 <table>
   <tr>
