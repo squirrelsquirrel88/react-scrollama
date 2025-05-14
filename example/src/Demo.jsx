@@ -248,7 +248,7 @@ class Demo extends PureComponent {
           <div>
             <a href="https://www.politico.com/" rel="nofollow">
               <img
-                src="https://camo.githubusercontent.com/5e5aaf160fb5b4446d2c0dff5dc8781a14f2b5608e380a7c1d70962541f9e9a5/68747470733a2f2f6a6f6c7474782e6f72672f77702d636f6e74656e742f75706c6f6164732f323031392f31302f706f6c697469636f2d6c6f676f2e706e67"
+                src="https://camo.githubusercontent.com/443122ff4fb7e91dfcb57d85555e51ec8a9b63f223ce88923defa4af9ec5cb66/68747470733a2f2f7374617469632e706f6c697469636f2e636f6d2f64696d73342f64656661756c742f353137383666652f323134373438333634372f726573697a652f31313630782533452f7175616c6974792f39302f3f75726c3d68747470732533412532462532467374617469632e706f6c697469636f2e636f6d2532463131253246336325324632353731633061623435356539316266383164633462616239336136253246706f6c697469636f2d6c6f676f2e706e67"
                 style={{ maxWidth: '170px' }}
                 data-canonical-src="https://jolttx.org/wp-content/uploads/2019/10/politico-logo.png"
               />
@@ -271,14 +271,6 @@ class Demo extends PureComponent {
               rel="nofollow"
             >
               <img src="https://user-images.githubusercontent.com/15334952/111391036-2dfb8800-868a-11eb-9c64-3f322ef1e588.png" />
-            </a>
-          </div>
-          <div>
-            <a
-              href="https://www.columbiaspectator.com/eye-lead/graduate-sex-diversity"
-              rel="nofollow"
-            >
-              <img src="https://user-images.githubusercontent.com/15334952/111391310-b843ec00-868a-11eb-9744-72ee913cdbe1.png" />
             </a>
           </div>
         </div>
