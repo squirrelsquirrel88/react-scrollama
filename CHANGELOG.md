@@ -9,7 +9,7 @@ project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Changed
 
-- Fix for not reliable updating progress of the Step component (#108)
+- Fix for not reliable updating progress of the Step component (#111)
 
 ## [2.4.0]
 
