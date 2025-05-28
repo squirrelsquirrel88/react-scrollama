@@ -1,12 +1,5 @@
 // prettier-ignore
-import React, {
-  cloneElement,
-  useCallback,
-  useEffect,
-  useMemo,
-  useRef,
-  useState,
-} from 'react';
+import React, { useState, useMemo, useCallback, useRef, useEffect, cloneElement } from 'react';
 import { useInView } from 'react-intersection-observer';
 
 const useRootMargin = offset => {
