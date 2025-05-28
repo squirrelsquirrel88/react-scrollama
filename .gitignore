@@ -9,6 +9,7 @@ dist
 
 # misc
 .DS_Store
+.idea
 .env
 .env.local
 .env.development.local
