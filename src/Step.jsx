@@ -1,5 +1,12 @@
 // prettier-ignore
-import React, { useState, useMemo, useCallback, useRef, useEffect, cloneElement } from 'react';
+import React, {
+  cloneElement,
+  useCallback,
+  useEffect,
+  useMemo,
+  useRef,
+  useState,
+} from 'react';
 import { useInView } from 'react-intersection-observer';
 
 const useRootMargin = offset => {
@@ -31,7 +38,7 @@ const Step = props => {
 
   const isBrowser = typeof window !== 'undefined';
   const scrollTop = isBrowser ? document.documentElement.scrollTop : 0;
-  const direction = lastScrollTop > scrollTop ? 'up' : 'down';
+  const direction = lastScrollTop >= scrollTop ? 'up' : 'down';
 
   const rootMargin = useRootMargin(offset);
 
